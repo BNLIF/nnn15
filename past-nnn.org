@@ -1,0 +1,82 @@
+#+TITLE: Past NNN Workshops
+
+* 2014
+
+- site :: http://nnn2014.in2p3.fr/
+- poster :: http://nnn2014.in2p3.fr/images/posterNNN14_final_big.jpg
+
+* 2013
+
+- site :: http://indico.ipmu.jp/indico/conferenceDisplay.py?confId=17
+- poster :: ???
+
+* 2012
+
+- site :: http://conferences.fnal.gov/nnn12/
+- poster :: http://conferences.fnal.gov/nnn12/pix/Poster/NNN12posterLARGE.pdf
+
+Sidebar on site collects some past posters and links to sites.
+
+* 2011
+
+- site :: http://neutrino.ethz.ch/NNN11/Welcome.html
+- poster :: http://conferences.fnal.gov/nnn12/pix/posters/NNN11.jpg (squint)
+
+
+* 2010
+
+- site :: http://www-sk.icrr.u-tokyo.ac.jp/NNN10/
+- poster :: http://www-sk.icrr.u-tokyo.ac.jp/NNN10/img/NNN10-0712-final.jpg
+
+* 2009
+
+- site :: http://nnn09.colostate.edu/
+- poster :: http://nnn09.colostate.edu/NNN09_poster.pdf
+
+- retrospective :: http://nnn09.colostate.edu/Talks/Session01/NNN09_Jung_post.pdf
+
+* 2008
+
+- site :: gone missing
+- indico :: https://indico.in2p3.fr/event/402/other-view?view=standard
+- poster :: ???
+
+* 2007
+
+- site :: http://www-rccn.icrr.u-tokyo.ac.jp/NNN07/
+- poster :: http://www-rccn.icrr.u-tokyo.ac.jp/NNN07/poster-31.pdf
+
+* 2006
+
+- site :: http://neutrino.phys.washington.edu/nnn06/
+- poster :: http://neutrino.phys.washington.edu/nnn06/NNN06-poster.pdf
+
+* 2005
+
+- site :: http://nnn05.in2p3.fr/
+- poster :: http://nnn05.in2p3.fr/nnn05_poster.jpg
+
+* 2002
+
+- site :: http://muonstoragerings.web.cern.ch/muonstoragerings/NuWorkshop02/welcome.html
+- poster ::
+- cerndocs :: http://cds.cern.ch/record/646057?ln=en
+
+* 2001
+
+- location :: Baton Rouge
+- site :: mia
+- poster :: ???
+
+* 2000
+
+- site :: http://www.ps.uci.edu/~sobel/NNN/Workshop.html
+- poster :: ???
+
+* 1999
+
+- site :: http://superk.physics.sunysb.edu/NNN99/
+- poster :: http://superk.physics.sunysb.edu/NNN99/nnn-poster.pdf
+
+Ur NNN
+
